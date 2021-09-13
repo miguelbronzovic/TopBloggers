@@ -1,6 +1,5 @@
-# Fueled Kotlin Exercise
+# Kotlin Exercise
 
-> This repository is archived to prevent accidentally creating a PR against it.
 
 A blogging platform stores the following information that is available through separate API endpoints:
 + user accounts
@@ -22,11 +21,3 @@ Instead of connecting to a remote API, we are providing this data in form of JSO
 3. How you use your models to calculate this average value
 4. How you use this data point to sort the users
 
-### Instructions
-1. Clone this repo to a repo on your own Github account and **make it private**
-2. Invite user `fueledbot` to collaborate on that repo
-3. Address each step of the problem above and commit as necessary
-4. Once you are finished, open a PR on your work and assign `fueledbot` as the reviewer and notify your Fueled contact via email
-
-### Duration
-Out of respect for your time, we ask that you limit the amount you spend on this assignment to just a few hours. However, out of respect for us, we also expect you to submit the completed exercise within a week of it being assigned to you. Thank you, and best of luck!
